@@ -360,7 +360,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@lenkabuilds](https://github.com/lenkabuilds)
 - Project: [smart-limit](https://github.com/YOUR_USERNAME/smart-limit)
 
 ---
